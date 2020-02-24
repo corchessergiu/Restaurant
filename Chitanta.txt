@@ -1,0 +1,13 @@
+Id-ul comenzii este:1
+
+Data in care a fost realizata comanda:Thu May 16 17:56:02 EEST 2019
+
+Numarul mesei este:3
+
+Comanda contine:
+test pret:4
+
+lapte pret:5
+
+Total:9
+
